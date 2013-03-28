@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:aadd111f3056df3513ce88caf9490d52$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="Atlas2.png" width="1024" height="1024">
+    <sprite n="bar_l" x="491" y="155" w="30" h="226"/>
+    <sprite n="bar_m" x="271" y="155" w="28" h="184"/>
+    <sprite n="bar_s" x="834" y="2" w="26" h="136"/>
+    <sprite n="bar_xl" x="703" y="155" w="34" h="258"/>
+    <sprite n="bar_xxl" x="468" y="423" w="36" h="284"/>
+    <sprite n="cog_l" x="192" y="423" w="274" h="277"/>
+    <sprite n="cog_m" x="862" y="2" w="148" h="151"/>
+    <sprite n="cog_s" x="490" y="2" w="114" h="112"/>
+    <sprite n="drum_stick_hand" x="2" y="423" w="188" h="274"/>
+    <sprite n="foot" x="354" y="155" w="135" h="205"/>
+    <sprite n="hat_bottom" x="739" y="155" w="174" h="266"/>
+    <sprite n="hat_top" x="302" y="2" w="186" h="55"/>
+    <sprite n="kick_drum" x="523" y="155" w="178" h="239"/>
+    <sprite n="kick_drum_beater" x="790" y="2" w="42" h="130"/>
+    <sprite n="kick_pedal" x="27" y="2" w="189" h="27"/>
+    <sprite n="knot" x="218" y="2" w="41" h="28"/>
+    <sprite n="knot2" x="2" y="2" w="23" h="23"/>
+    <sprite n="pulley" x="692" y="423" w="16" h="347"/>
+    <sprite n="record" x="606" y="2" w="130" h="128"/>
+    <sprite n="scratch_hand" x="738" y="2" w="50" h="128"/>
+    <sprite n="screw" x="261" y="2" w="39" h="41"/>
+    <sprite n="snare_drum" x="506" y="423" w="184" h="312"/>
+    <sprite n="turntable" x="2" y="155" w="267" h="183"/>
+    <sprite n="turntable_arm" x="301" y="155" w="51" h="185"/>
+</TextureAtlas>

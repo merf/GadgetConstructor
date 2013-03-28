@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:959baf776520ed553d88e9582e9551c2$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="Atlas3.png" width="1024" height="1024">
+    <sprite n="bar_l" x="192" y="615" w="32" h="228"/>
+    <sprite n="bar_m" x="367" y="615" w="30" h="184"/>
+    <sprite n="bar_s" x="374" y="396" w="34" h="136"/>
+    <sprite n="bar_xl" x="335" y="2" w="35" h="256"/>
+    <sprite n="bar_xxl" x="20" y="2" w="39" h="289"/>
+    <sprite n="cog_l" x="61" y="2" w="272" h="272"/>
+    <sprite n="cog_m" x="374" y="242" w="151" h="152"/>
+    <sprite n="cog_s" x="410" y="396" w="112" h="115"/>
+    <sprite n="drum_stick_hand" x="2" y="663" w="188" h="269"/>
+    <sprite n="foot" x="226" y="615" w="139" h="206"/>
+    <sprite n="hat_bottom" x="188" y="347" w="184" h="266"/>
+    <sprite n="hat_top" x="20" y="293" w="185" h="52"/>
+    <sprite n="kick_drum" x="372" y="2" w="171" h="238"/>
+    <sprite n="kick_drum_beater" x="399" y="534" w="41" h="134"/>
+    <sprite n="kick_pedal" x="2" y="978" w="189" h="29"/>
+    <sprite n="knot" x="41" y="934" w="40" h="28"/>
+    <sprite n="knot2" x="83" y="934" w="22" h="23"/>
+    <sprite n="pulley" x="2" y="2" w="16" h="347"/>
+    <sprite n="record" x="192" y="845" w="130" h="128"/>
+    <sprite n="scratch_hand" x="399" y="670" w="50" h="128"/>
+    <sprite n="screw" x="2" y="934" w="37" h="42"/>
+    <sprite n="snare_drum" x="2" y="351" w="184" h="310"/>
+    <sprite n="turntable" x="377" y="801" w="269" h="180"/>
+    <sprite n="turntable_arm" x="324" y="823" w="51" h="184"/>
+</TextureAtlas>
